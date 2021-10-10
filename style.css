@@ -1,0 +1,222 @@
+body{
+    margin: 0 auto;
+    width: 1024px;
+}
+*{
+    padding: 0 auto;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    
+
+}
+.topo{
+    margin: 0 auto;
+    width: 1124px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 50px;
+    position: fixed;
+    background-color: rgb(247, 250, 252);
+}
+.span{
+    color: blue;
+}
+.logo .a-link{
+    height: 60px;
+    height: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.menu{
+    text-decoration: none;
+    font-weight:500;
+    color: rgb(31, 29, 29);
+    text-transform: uppercase;
+}
+.PousadaSecreta{
+    background-image: url(/img/assets/img-fundo.jpg);
+    width: 1024px;
+    height: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Pousada-titulo{
+    background: rgb(0 0 0 / 42%);
+    width: 400px;
+    height: 160px;
+    text-align: center;
+    padding: 26px 0px 0px 0px;
+    flex-wrap: wrap;
+    color: white;
+}
+.h1-1{
+    margin: 0px 0px 27px 0px;
+}
+
+.conteiner-seja-bem{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: white;
+}
+.seja-bem-vindo{
+    width: 500px;
+    height: 220px;
+    text-align: center;
+}
+.H2-1{
+    text-transform: uppercase;
+    margin: 50px 0 26px 0px;
+}
+.p-2{
+    margin: 0 0 21px 0px;
+}
+.conteiner-quartos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    
+
+}
+.quarto a{
+    text-transform: uppercase;
+    text-decoration: none;
+    border-bottom: 3px solid rgba(128, 128, 128, 0.534);
+    
+}
+.quarto .img-quartos{
+    width: 250px;
+    height: 250px;
+    padding: 0 0 0 10px;
+}
+.qtrs{
+    display: flex;
+    justify-content: center;
+    border-bottom: solid 5px gray;
+    padding: 0 0 10px 0px;
+    margin: 0px 13px 0 13px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.rota{
+    width: 500px;
+    height: 220px;
+    width: 1024px;
+    text-align: center;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap;
+}
+.H3-1{
+    margin: 60px 0px 60px 0px;
+    text-transform: uppercase;
+}
+.p-h3{
+
+}
+
+.conteiner-sobre-a-pousada{
+    display: flex;
+    justify-content: center;
+    width: 1024px;
+    height: 220px;
+    
+}
+.sobre{
+    text-decoration: none;
+}
+.h2-2{
+    margin: 60px 0 60px 0px;
+    text-align: center;
+
+}
+.p-3{
+
+}
+
+.quartos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 20px 0px 20px 0px;
+    align-items: center;
+
+}
+.opcoes-quarto{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px 0px 20px 0px;
+    
+}
+.img{
+    padding: 1px 0px 0px 0px;
+    margin: 0px 2px -17px 0px;
+    height: 100px;
+    width: 90px;
+}
+.cont-quarto{
+    width: 200px;
+    width: 325px;
+    margin: 10px 20px 10px 10px;
+    
+}
+.H5-1{
+    margin: 0 0 20px 0px;
+    text-transform: uppercase;
+}
+
+.conteiner-rodape{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: rgb(18, 61, 110);
+    height: 150px;
+}
+.entre-em-contato h6{
+    color: white;
+    font-size: 14px;
+
+}
+.link{
+    text-decoration: none;
+    color: white;
+
+}
+.conteiner-rodape img{
+    height: 30px;
+    display: flex;
+    margin: -16px 0px 0px 0px;
+    float: left;
+
+}
+.telefone p{
+    width: 170px;
+    float: left;
+    padding: 0 0px 0px 10px;
+    color: white;
+}
+.telefone img{
+    height: 30px;
+    display: flex;
+    margin: -16px 0px 0px 0px;
+}
+.booking p{
+    width: 170px;
+    float: left;
+    padding: 0 0px 0px 10px;
+    color: white;
+}
+
+
+
+
